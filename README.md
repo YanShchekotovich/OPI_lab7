@@ -1,1 +1,1 @@
-# OPI_lab7
+# OPI_lab7 yan vrpo 7
