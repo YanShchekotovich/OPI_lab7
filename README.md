@@ -1,4 +1,4 @@
-# OPI_lab7 yan vrpo 7
+# OPI_lab7 
 Щекотович 
 Ян 
 Олегович
